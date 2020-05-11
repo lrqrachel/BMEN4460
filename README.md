@@ -18,3 +18,6 @@ The code reference:
 2.https://github.com/zhixuhao/unet
 
 3.https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277
+
+# Video
+
