@@ -21,3 +21,7 @@ The code reference:
 
 # Video
 
+We record the video of approximately 1 min for running the code. There are two videos, one for training ResattUnet with dataset1, another for training BasicUnet with dataset2.
+
+
+Since we are not able to open GPU to run the code again video recording, therefore we use CPU to run instead, therefore the results could be a little bit different.
